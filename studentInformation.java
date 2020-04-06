@@ -2,8 +2,8 @@
 /**
 * File Name: StudentInfo.java
 * Purpose: Implementation of student exam information
-* Date: 2020-03-01
-* Last modified: 2020-03-01
+* Date: 2020-01-15
+* Last modified: 2020-01-15
 * Author: Josen Pottackal
 * Copy right no copyright
 * Version: 1.0
